@@ -8,7 +8,8 @@
     "build": "tsc",
     "test": "vitest --globals",
     "prepublish": "npm run build",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "prepare": "husky install"
   },
   "author": "wangshouren",
   "license": "ISC",
