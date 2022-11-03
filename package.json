@@ -10,7 +10,7 @@
     "prepublish": "npm run build",
     "format": "prettier --write .",
     "prepare": "husky install",
-    "commit": "git add . && git commit && git push"
+    "commit": "git add . && git commit && git push origin main"
   },
   "author": "wangshouren",
   "license": "ISC",
