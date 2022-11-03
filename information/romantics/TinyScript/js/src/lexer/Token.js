@@ -15,7 +15,7 @@ const Keywords = new Set([
   "float",
   "bool",
   "void",
-  "string"
+  "string",
 ]);
 
 class Token {
